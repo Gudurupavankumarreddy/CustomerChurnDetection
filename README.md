@@ -214,7 +214,7 @@ Best Model: Logistic Regression
 
 Accuracy: 80%
 
-Churn Class (1) - Precision: 65%, Recall: 57%, F1-Score: 61%
+Churn Class (1) - Precision: 65%, Recall: 57%, F1-Score: 61%.
 
 Deployed using a Streamlit web app with an interactive UI for real-time churn predictions.
 
